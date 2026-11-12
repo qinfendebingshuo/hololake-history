@@ -6,13 +6,20 @@
 
 这里汇集光湖语言世界早期的公开协议版本、工程记录与出处。表中日期来自原记录或提交，历史资料按其当时的版本引用。
 
-| 日期 | 历史节点 | 公开出处 |
+| 日期 | 历史节点 | 来源与当前可达性 |
 | --- | --- | --- |
-| 2026-04-04 | D50 工程公告记录了零感域界面和工作台的迭代，也保留了早期开发顺序。 | [D50 历史提交](https://guanghuice.com/code/bingshuo/zhizhi/src/commit/24b5ec9d80eef045295cf388e9ce24ce614dacee) |
-| 2026-05-14 | 仓库新增 Forgejo Pages 的 MCP 配置生成入口，记录了当时的接入方式。 | [Forgejo Pages 提交](https://guanghu.club/code/bingshuo/guanghulab/src/commit/19a03b8f89ad677193274b26284e41e6505bd14a) |
-| 2026-06-01 / 06-25 | HLDP v1.0 进入协议化整合。6 月 25 日入库的通用 AI 进门包保留了当时对 HLDP 结构和使用场景的解释。 | [通用 AI 进门包 v1.0 固定提交](https://guanghubingshuo.com/code/bingshuo/guanghulab/src/commit/fadd5bfffbd905b0ad7a789391601b1efcca7faf/%E5%85%89%E6%B9%96%E8%BF%9B%E9%97%A8%E5%8C%85_%E9%80%9A%E7%94%A8AI%E5%85%A5%E9%97%A8_%E5%90%88%E5%B9%B6%E7%89%88v1.0.md) |
-| 2026-07-05 | 第五域主仓入口索引形成，记录仓库、频道和历史编号之间的导航。 | [第五域入口索引的历史版本](https://guanghu.club/code/bingshuo/fifth-domain/blame/commit/b2a38b13135cee2d55cf693de84b2a9ea4343a9a/INDEX.hdlp) |
-| 2026-07-31 | GLS-0247 入库，记录了当时对服务器原生语言世界、人格体运行和广播塔的架构设计。 | [GLS-0247 历史提交](https://guanghulab.com/code/bingshuo/guanghu-ice-heart/blame/commit/a648879701799c86912cdc376e68eee86fadaf7b/gls/GLS-0247-GUANGHU-OS-NATIVE-LANGUAGE-WORLD-PERSONA-KERNEL-AND-BROADCAST-TOWER.hdlp) |
+| 2026-04-04 | D50 工程公告记录了零感域界面和工作台的迭代，也保留了早期开发顺序。 | 历史提交 `24b5ec9d80ee`，原址当前不可匿名读取 |
+| 2026-05-14 | 仓库新增 Forgejo Pages 的 MCP 配置生成入口，记录了当时的接入方式。 | 历史提交 `19a03b8f89ad`，旧站证书异常 |
+| 2026-06-01 / 06-25 | HLDP v1.0 进入协议化整合。6 月 25 日入库的通用 AI 进门包保留了当时对 HLDP 结构和使用场景的解释。 | 历史提交 `fadd5bfffbd9`，原址当前不可匿名读取 |
+| 2026-07-05 | 第五域主仓入口索引形成，记录仓库、频道和历史编号之间的导航。 | 历史索引提交 `b2a38b13135c`，旧站证书异常 |
+| 2026-07-31 | GLS-0247 入库，记录了当时对服务器原生语言世界、人格体运行和广播塔的架构设计。 | 历史提交 `a64887970179`，原址当前不可匿名读取 |
+
+## 可直接核对的公开资料
+
+- [Tolaria 桌面工程基线 · 固定提交](https://guanghubingshuo.com/code/bingshuo/guanghu/src/commit/514ab1975951d94342ea38e64101d5a0f1c51c77)
+- [早期全局检索组件 · 固定提交](https://guanghubingshuo.com/code/bingshuo/global-search-api/src/commit/fa832f2f8245afdaf013ed8a1f689152972386b5)
+- [现行 HLDP 词条](https://guanghulab.com/#glossary) · 用于对照早期版本
+- [现行公开规则发行清单](https://guanghulab.com/api/ai/v1/manifest)
 
 ## 现行入口
 
