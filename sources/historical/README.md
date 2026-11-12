@@ -6,6 +6,10 @@
 - [Grid-DB 架构原文 · PRJ-GDB-001](grid-db-architecture.md)
 - [GitHub 旧仓早期工程模块](early-modules.md)
 - [新加坡早期检索组件沿革 · REPO-003](singapore-search-history.md)
+- [AGE OS 第一代架构与 D63 工程快照](age-os-d63.md)
+- [Notion 与 GitHub 早期工程桥接](notion-github-bridge.md)
+- [早期 AI 交互页面 v5.3](early-interface-v53.md)
+- [天眼涌现定义历史原文 · ONT-PATCH-007](ONT-PATCH-007.md)
 - [来源与版本记录](SOURCE-MANIFEST.json)
 
 商标和作品登记编号在[登记查验页](../../docs/rights-registrations.md)。历史站的迁移顺序见[工程迁移与公开发布沿革](../../docs/engineering-history.md)。

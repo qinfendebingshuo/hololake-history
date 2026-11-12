@@ -44,6 +44,38 @@
         "README-V2.md"
       ],
       "source_url": "https://guanghubingshuo.com/code/bingshuo/global-search-api/src/commit/fa832f2f8245afdaf013ed8a1f689152972386b5"
+    },
+    {
+      "path": "sources/historical/age-os-d63.md",
+      "type": "public_summary",
+      "repository": "原 GitHub 工程母仓（受限档案）",
+      "commit": "b4a240519765ed9fa5b15c8745ddcb3943729541",
+      "source_paths": [
+        "docs/age-os-v1-architecture.md",
+        "docs/MODULE-INVENTORY-2026-04-26.md"
+      ]
+    },
+    {
+      "path": "sources/historical/notion-github-bridge.md",
+      "type": "public_summary",
+      "repository": "原 GitHub 工程母仓（受限档案）",
+      "commit": "b4a240519765ed9fa5b15c8745ddcb3943729541",
+      "source_path": "docs/neural-bridge-protocol-v3.md"
+    },
+    {
+      "path": "sources/historical/early-interface-v53.md",
+      "type": "public_summary",
+      "repository": "原 GitHub 工程母仓（受限档案）",
+      "commit": "b4a240519765ed9fa5b15c8745ddcb3943729541",
+      "source_path": "docs/ai-system-doc.md"
+    },
+    {
+      "path": "sources/historical/ONT-PATCH-007.md",
+      "type": "original",
+      "repository": "原 GitHub 工程母仓（受限档案）",
+      "commit": "b4a240519765ed9fa5b15c8745ddcb3943729541",
+      "source_path": "docs/ontology/ONT-PATCH-007.md",
+      "sha256": "f8866f306678c0200e12c51e2072355a53e222b01a97d4a59998cfe89d07cc17"
     }
   ]
 }
