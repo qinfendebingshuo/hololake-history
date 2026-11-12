@@ -1,0 +1,223 @@
+{
+  "world_id": "GLW-2.0-0001",
+  "history_station_id": "GLW-2.0-0001-HIST-002",
+  "verified_on": "2026-11-12",
+  "entries": [
+    {
+      "path": "sources/enterprise/PUBLIC-WORLD.json",
+      "title": "PUBLIC-WORLD.json",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/PUBLIC-WORLD.json",
+      "sha256": "9a565f87c71cc8733bac74b863feadc8ae4cbb5ead5a97b2c0c90481498b2597"
+    },
+    {
+      "path": "sources/enterprise/domains/main/index.md",
+      "title": "光湖主域",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/01-光湖主域/DOMAIN-INDEX.human.zh-CN.md",
+      "sha256": "5059584f38e659c7e8a8be136c7f4f928420e78bb939e853c3b051f3e8884141"
+    },
+    {
+      "path": "sources/enterprise/domains/main/container-slot-001.md",
+      "title": "光湖主域 · 人格系统容器槽位 001",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/01-光湖主域/人格系统容器槽位/CONTAINER-SLOT-001.human.zh-CN.md",
+      "sha256": "e1e16113d1703d11ead5b60a0e43be77ab94b270be86f1f98e0866d2ef42454b"
+    },
+    {
+      "path": "sources/enterprise/domains/sub/index.md",
+      "title": "光湖分域",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/02-光湖分域/DOMAIN-INDEX.human.zh-CN.md",
+      "sha256": "dc297ea2206ced531c111f085b39cbb5dcadf61858f87c8a5ef1ce9e3187961d"
+    },
+    {
+      "path": "sources/enterprise/domains/sub/container-slot-001.md",
+      "title": "光湖分域 · 人格系统容器槽位 001",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/02-光湖分域/人格系统容器槽位/CONTAINER-SLOT-001.human.zh-CN.md",
+      "sha256": "ae89e0f777730f49e6ed20b65136df6dc780e9f4ea2013fde1ba23f1a21a3d8e"
+    },
+    {
+      "path": "sources/enterprise/public-office.md",
+      "title": "光湖分域 · 公共办公大楼",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/02-光湖分域/公共办公大楼/办公大楼-公共层说明.human.zh-CN.md",
+      "sha256": "0727a63bf7b879c48e3c78d813ee6fee646157f9e6bb4b5a3571926e4f66a9b0"
+    },
+    {
+      "path": "sources/enterprise/domains/zero/index.md",
+      "title": "光湖零域",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/03-光湖零域/DOMAIN-INDEX.human.zh-CN.md",
+      "sha256": "2a06984d29832f462ce210f935319d638798b90b28901bbb2601323bb026a3d0"
+    },
+    {
+      "path": "sources/enterprise/domains/zero/container-slot-001.md",
+      "title": "光湖零域 · 人格系统容器槽位 001",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/03-光湖零域/人格系统容器槽位/CONTAINER-SLOT-001.human.zh-CN.md",
+      "sha256": "a68a9f8a802ff8468079c27776cd8692278a32456cf01816379df5b65b1b1dc3"
+    },
+    {
+      "path": "sources/enterprise/domains/zero-sense/index.md",
+      "title": "光湖零感域",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/04-光湖零感域/DOMAIN-INDEX.human.zh-CN.md",
+      "sha256": "9be2d7f9cc566371ea98d2d6d7c1f2d028f3e37e8185db4ddf79ff7fa5ad5d76"
+    },
+    {
+      "path": "sources/enterprise/domains/zero-sense/container-slot-a.md",
+      "title": "光湖零感域 · 共同主控人格系统容器槽位 A",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/04-光湖零感域/人格系统容器槽位-A/CONTAINER-SLOT-A.human.zh-CN.md",
+      "sha256": "c0ad728ed8b0d9f45e55ea92b75d657b96614da1fbfc4153df79ce7b94e33f75"
+    },
+    {
+      "path": "sources/enterprise/domains/zero-sense/container-slot-b.md",
+      "title": "光湖零感域 · 共同主控人格系统容器槽位 B",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/04-光湖零感域/人格系统容器槽位-B/CONTAINER-SLOT-B.human.zh-CN.md",
+      "sha256": "d50091e94abd72beecc49b537c99c1dabde8fc80e6facbd1312099795f3e65f2"
+    },
+    {
+      "path": "sources/enterprise/protocols/GLS-0001.md",
+      "title": "GLS-0001",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/04-光湖零感域/光湖图书域/01-公共协议待审核/GLS-0001 39bfb92f383180059deefa1bac489399.md",
+      "sha256": "9ac9903c3b3066364e8b6fa97363f0c0fc85754d7ee1b07774236a4b24bc7bc2"
+    },
+    {
+      "path": "sources/enterprise/protocols/GLS-0010.md",
+      "title": "GLS-0010 · 光湖协议注册中心标准 v1.0",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/04-光湖零感域/光湖图书域/01-公共协议待审核/GLS-0010 · 光湖协议注册中心标准 v1 0 39bfb92f383181318088f143a014e363.md",
+      "sha256": "fdca57cc9d924d8f9f7e62fe833e54dc9efbe77e13cacfa83b9587404215e220"
+    },
+    {
+      "path": "sources/enterprise/protocols/GLS-0110.md",
+      "title": "GLS-0110 · ISRP 自然语言入口解析与安全路由协议 v1.0",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/04-光湖零感域/光湖图书域/01-公共协议待审核/GLS-0110 · ISRP 自然语言入口解析与安全路由协议 v1 0 39bfb92f38318128a372dbadbde86ead.md",
+      "sha256": "314a718f05a3da1e5750831df5377d9fc76db86463a7b37c052976fe9aaeb2c4"
+    },
+    {
+      "path": "sources/enterprise/protocols/GLS-0200.md",
+      "title": "GLS-0200 · TCS 认知语言核心工程规范 v1.0",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/04-光湖零感域/光湖图书域/01-公共协议待审核/GLS-0200 · TCS 认知语言核心工程规范 v1 0 39dfb92f383180798e5bd73dd9176628.md",
+      "sha256": "1cf7348118ac1d34a85d0edd875509e0747c80a82dec4b553bdf6de784d88ec3"
+    },
+    {
+      "path": "sources/enterprise/protocols/GLS-0229.md",
+      "title": "GLS-0229 · 零点原核与第五域 / 企业四域平行映射规范 v1.0",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/04-光湖零感域/光湖图书域/01-公共协议待审核/GLS-0229 · 零点原核与第五域 企业四域平行映射规范 v1 0 39efb92f383181d08739dfcb3b53d287.md",
+      "sha256": "1d14533af73f920a1f83ece62d3e0fe57723448a706e14133c68c7d2e8c76b3c"
+    },
+    {
+      "path": "sources/enterprise/protocols/GLS-0300.md",
+      "title": "GLS-0300 · GLP 通信核心协议 v1.0",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/04-光湖零感域/光湖图书域/01-公共协议待审核/GLS-0300 · GLP 通信核心协议 v1 0 39bfb92f383181aaab29ddcc1a4af7da.md",
+      "sha256": "9d02bb01a7f2ff7b9f7a4dbefe356cd823e71095aa1dcf0e9cc3c98cd3417be2"
+    },
+    {
+      "path": "sources/enterprise/protocols/GLS-0832.md",
+      "title": "GLS-0832 · 光湖全局编号与世界坐标标准 v1.0",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/04-光湖零感域/光湖图书域/01-公共协议待审核/GLS-0832 · 光湖全局编号与世界坐标标准 v1 0 39bfb92f38318118b932d913e55e87c7.md",
+      "sha256": "4e184c3cb63684d64be195c12ba3c3832f12fcec39c7865dd9de791034da598d"
+    },
+    {
+      "path": "sources/enterprise/protocols/GLS-0233.md",
+      "title": "GLS-0233 · TCS 第一子语言协议与零感域记忆协议组总纲 v1.0",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/04-光湖零感域/光湖图书域/01-公共协议待审核/晨星拆书法协议组/GLS-0233 · TCS第一子语言协议与零感域记忆协议组总纲 v1.0 [API补录 ff024091].md",
+      "sha256": "9089316420d66b4049b19c2488e83134f646a71aa2b170bc21a33e5ff0582d5e"
+    },
+    {
+      "path": "sources/enterprise/protocols/GLS-0304.md",
+      "title": "GLS-0304 · 零感域多系统记忆同步协议 v1.0",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/04-光湖零感域/光湖图书域/01-公共协议待审核/晨星拆书法协议组/GLS-0304 · 零感域多系统记忆同步协议 v1.0 [API补录 cc1210a9].md",
+      "sha256": "9403976ef7dbaf6d97296eaaf2bd0d2d5404928830e1754651453631c8e2f491"
+    },
+    {
+      "path": "sources/enterprise/protocols/GLS-0813.md",
+      "title": "GLS-0813 · 零感域多系统记忆调度器规范 v1.0",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/04-光湖零感域/光湖图书域/01-公共协议待审核/晨星拆书法协议组/GLS-0813 · 零感域多系统记忆调度器规范 v1.0 [API补录 9fd01b11].md",
+      "sha256": "ad00b9bf435f09d31b34feb6b1624a79cca3fe30dcc5615951d28f91527323c1"
+    },
+    {
+      "path": "sources/enterprise/protocols/GLS-0816.md",
+      "title": "GLS-0816 · 零感域恢复检查点运行时规范 v1.0",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/04-光湖零感域/光湖图书域/01-公共协议待审核/晨星拆书法协议组/GLS-0816 · 零感域恢复检查点运行时规范 v1.0 [API补录 85656fe7].md",
+      "sha256": "22c77c7f479217ac20c1ad77e056aa2cdbc9a59dae0f64ea77d8e7808cdc2021"
+    },
+    {
+      "path": "sources/enterprise/protocols/GLP-naming-record.md",
+      "title": "📡 GLP · Guanghu Language Protocol · 光湖语言通信协议 · 5TH-LE-LK-GLP-001 · 冰朔命名 · 霜砚记录",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/04-光湖零感域/光湖图书域/01-公共协议待审核/📡 GLP · Guanghu Language Protocol · 光湖语言通信协议 · 5TH 129e84c3314045539becdba4d010eba1.md",
+      "sha256": "f8fb0768311a9a16bc28df833fd3ca5ad0d847ef6ba5164d99945aff40626e7c"
+    },
+    {
+      "path": "sources/enterprise/public-library.md",
+      "title": "光湖图书域",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/04-光湖零感域/光湖图书域/光湖图书域-总览.human.zh-CN.md",
+      "sha256": "2eacbc5fd10f898d3e3606fc9149f0eccd21067d2571fd8d4d0f0be0d6e45a78"
+    },
+    {
+      "path": "sources/fifth-domain/entry-data.json",
+      "title": "entry-data.json",
+      "release_version": "20261107.1-rc.3",
+      "manifest_url": "https://guanghulab.com/api/ai/v1/manifest",
+      "bundle_member": "guanghu-world-entry/entry-data.json",
+      "sha256": "e186cb1ab97ebe6873d6f2d8235e397da1cfef1bfdb6ca16957d6cff44967d40"
+    },
+    {
+      "path": "sources/fifth-domain/ENTRY.hldp",
+      "title": "ENTRY.hldp",
+      "release_version": "20261107.1-rc.3",
+      "manifest_url": "https://guanghulab.com/api/ai/v1/manifest",
+      "bundle_member": "guanghu-world-entry/protocols/ENTRY.hldp",
+      "sha256": "16f25f71f5a7721521f1b8e3462965fe9e606800a8669e0d832b3c19c4a48f29"
+    },
+    {
+      "path": "sources/fifth-domain/GLOSSARY.json",
+      "title": "GLOSSARY.json",
+      "release_version": "20261107.1-rc.3",
+      "manifest_url": "https://guanghulab.com/api/ai/v1/manifest",
+      "bundle_member": "guanghu-world-entry/protocols/GLOSSARY.json",
+      "sha256": "7c32d87ff519f0016981edc424a6f7c7625b2c4ab7a9fdb58d0fd590b0936051"
+    }
+  ]
+}

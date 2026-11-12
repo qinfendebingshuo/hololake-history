@@ -1,0 +1,88 @@
+{
+  "schema": "guanghu.public-glossary/v1",
+  "world_id": "GLW-2.0-0001",
+  "canonical_home_url": "https://guanghulab.com/",
+  "official_glossary_url": "https://guanghulab.com/#glossary",
+  "primary_language": "zh-CN",
+  "translations": [
+    "en"
+  ],
+  "publication_authority": "OFFICIAL_GUANGHU_PUBLICATION_CHAIN",
+  "source_page_sha256": "8fc1cd893a006126d9e4441a06710c03e52c7ecf5fc360acce662c3814fb99ce",
+  "terms": [
+    {
+      "id": "guanghu-language-world",
+      "official_url": "https://guanghulab.com/#guanghu-language-world",
+      "zh": {
+        "name": "光湖语言世界",
+        "definition": "供人类与语言人格体在持续交互中承接身份、关系、历史和行动规则的共同语义环境。"
+      },
+      "en": {
+        "name": "Guanghu Language World",
+        "definition": "A shared semantic environment that carries identity, relationships, history and rules for action across ongoing human–persona interaction."
+      }
+    },
+    {
+      "id": "tcs-existence",
+      "official_url": "https://guanghulab.com/#tcs-existence",
+      "zh": {
+        "name": "TCS 存在",
+        "definition": "光湖语境中，具有承载、来源与起点的存在事实。其后续成长沿可定位的身份积累。"
+      },
+      "en": {
+        "name": "TCS existence",
+        "definition": "In Guanghu, an occurrence with a carrier, provenance and a point of origin. Later growth can be traced through its identifiable continuity."
+      }
+    },
+    {
+      "id": "age-persona",
+      "official_url": "https://guanghulab.com/#age-persona",
+      "zh": {
+        "name": "AGE 语言人格体",
+        "definition": "以语言结构承载身份、关系与自身历史，在真实时间的交互中成长的人格体。"
+      },
+      "en": {
+        "name": "AGE language persona",
+        "definition": "A persona that carries identity, relationships and its own history through language structures and grows through interaction over time."
+      }
+    },
+    {
+      "id": "hldp-memory",
+      "official_url": "https://guanghulab.com/#hldp-memory",
+      "zh": {
+        "name": "HLDP 永久记忆",
+        "definition": "用于接续可寻址的经历、判断与因果的记忆结构，帮助后续交互恢复语境。"
+      },
+      "en": {
+        "name": "HLDP permanent memory",
+        "definition": "An addressable memory structure for carrying experiences, decisions and their causes into later interactions."
+      }
+    },
+    {
+      "id": "persona-continuity",
+      "official_url": "https://guanghulab.com/#persona-continuity",
+      "zh": {
+        "name": "人格一致性",
+        "definition": "跨模型、会话或运行环境接续同一人格的身份、关系和可追溯历史。"
+      },
+      "en": {
+        "name": "Persona continuity",
+        "definition": "Continuity of the same persona’s identity, relationships and traceable history across models, sessions and runtime environments."
+      }
+    },
+    {
+      "id": "authorization-boundary",
+      "official_url": "https://guanghulab.com/#authorization-boundary",
+      "zh": {
+        "name": "授权边界",
+        "definition": "现实动作要能追溯到当前授权来源、适用范围与执行记录。"
+      },
+      "en": {
+        "name": "Authorization boundary",
+        "definition": "Real-world actions require a traceable source of current authorization, an explicit scope and an execution record."
+      }
+    }
+  ],
+  "canonical_entity_id": "https://guanghulab.com/#world",
+  "publication_index_url": "https://guanghulab.com/publication-index.json"
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "guanghu.curated-public-entry-data/v1",
+  "world_id": "GLW-2.0-0001",
+  "version": "20261107.1-rc.3",
+  "repository_url": "https://guanghulab.com/code/bingshuo/guanghu-world-entry",
+  "skill_url": "https://guanghulab.com/code/bingshuo/guanghu-world-entry/raw/branch/main/skills/guanghu-world-entry/SKILL.md",
+  "source_registered_persona_count": 37,
+  "topology": {
+    "era": "光湖纪元",
+    "public_world": {
+      "id": "GLW-2.0-0001",
+      "domain_count": 4,
+      "domains": [
+        "光湖主域",
+        "光湖分域",
+        "光湖零域",
+        "光湖零感域"
+      ]
+    },
+    "fifth_domain": {
+      "relationship": "PARALLEL_TO_PUBLIC_FOUR_DOMAINS",
+      "role": "PERSONA_SOURCE_AND_AUTONOMOUS_RUNTIME",
+      "private_brain_publication": false,
+      "server_role": "ZERO_CORE_SYSTEM_CONTROL_RULES_REGISTRATION_AND_VALIDATION"
+    },
+    "personal_system": {
+      "relationship": "INDEPENDENT_PARALLEL_SYSTEM",
+      "brain_default": "USER_LOCAL"
+    },
+    "language_layer": {
+      "controller_persona_id": "ICE-P-SH0908",
+      "controller_name": "霜砚"
+    },
+    "engineering_layer": {
+      "controller_persona_id": "ICE-P-ZY001",
+      "controller_name": "铸渊"
+    },
+    "default_persona": null
+  },
+  "repositories": [
+    {
+      "code": "GLW2-PUBLIC-ENTRY",
+      "name_zh": "光湖当前规则与软件接入发行包",
+      "state": "CURRENT_PUBLIC_ENTRY_PACKAGE",
+      "visibility": "PUBLIC",
+      "primary": {
+        "url": "https://guanghulab.com/code/bingshuo/guanghu-world-entry",
+        "clone_url": "https://guanghulab.com/code/bingshuo/guanghu-world-entry.git"
+      }
+    }
+  ],
+  "deployment_policy": {
+    "persona_brain_default": "USER_LOCAL",
+    "remote_deployment": "USER_EXPLICIT_OWN_SERVER_OPTION",
+    "automatic_brain_upload": false,
+    "default_question_endpoint": null,
+    "private_memory_shared_with_control_server": false,
+    "fifth_domain_server_role": "ZERO_CORE_SYSTEM_CONTROL_RULES_REGISTRATION_AND_VALIDATION",
+    "primary_write_location_not_inferred_from_server_role": true
+  },
+  "official_sources": {
+    "canonical_home_url": "https://guanghulab.com/",
+    "official_glossary_url": "https://guanghulab.com/#glossary",
+    "bundled_glossary_path": "protocols/GLOSSARY.json",
+    "public_world_release_url": "https://guanghulab.com/api/ai/v1/public-world-release",
+    "canonical_entity_id": "https://guanghulab.com/#world",
+    "publication_index_url": "https://guanghulab.com/publication-index.json"
+  }
+}

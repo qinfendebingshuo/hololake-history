@@ -1,0 +1,18 @@
+{
+  "schema": "guanghu.team-public-world-snapshot/v1",
+  "world_id": "GLW-2.0-0001",
+  "version": "2026-09-19.1-team-node-bootstrap",
+  "state": "CURRENT_PUBLIC_SNAPSHOT",
+  "domains": [
+    "DOMAIN-01-MAIN",
+    "DOMAIN-02-SUB",
+    "DOMAIN-03-ZERO",
+    "DOMAIN-04-ZERO-SENSE"
+  ],
+  "public_library": "world/04-光湖零感域/光湖图书域",
+  "fifth_domain_included": false,
+  "fifth_domain_public_reference_only": true,
+  "zero_point_private_library_included": false,
+  "private_persona_brains_included": false,
+  "update_source": "GUANGHU_ENTERPRISE_SIGNED_PUBLIC_RELEASE"
+}
