@@ -19,6 +19,10 @@
 - [阅读 27 份公开发行原文](sources/README.md) · 四域说明、协议文档和第五域公开接入资料
 - [原文来源与 SHA-256](sources/SOURCE-MANIFEST.json)
 
+## 登记查验
+
+- [商标与著作权登记摘要](docs/rights-registrations.md)
+
 ## 工程史料
 
 - [工程迁移与公开发布沿革](docs/engineering-history.md)
