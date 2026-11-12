@@ -1,0 +1,49 @@
+{
+  "world_id": "GLW-2.0-0001",
+  "history_station_id": "GLW-2.0-0001-HIST-002",
+  "entries": [
+    {
+      "path": "sources/historical/exe-engine-architecture.md",
+      "type": "original",
+      "repository": "原 GitHub 工程母仓（受限档案）",
+      "commit": "b4a240519765ed9fa5b15c8745ddcb3943729541",
+      "source_path": "exe-engine/docs/architecture.md",
+      "sha256": "daf814edeb008dd4850280d93ff04678a138b2e235a9ad908e6d8953d8c508a2"
+    },
+    {
+      "path": "sources/historical/grid-db-architecture.md",
+      "type": "original",
+      "repository": "原 GitHub 工程母仓（受限档案）",
+      "commit": "b4a240519765ed9fa5b15c8745ddcb3943729541",
+      "source_path": "grid-db/docs/architecture.md",
+      "sha256": "0a44e4265e1f73f7ecca57a55202dd1f9dab8adf02ab733f4de84d16dcf1330e"
+    },
+    {
+      "path": "sources/historical/early-modules.md",
+      "type": "public_summary",
+      "repository": "原 GitHub 工程母仓（受限档案）",
+      "commit": "b4a240519765ed9fa5b15c8745ddcb3943729541",
+      "source_paths": [
+        "m01-login/README.md",
+        "m05-user-center/README.md",
+        "m06-ticket/README.md",
+        "m07-dialogue-ui/README.md",
+        "m10-cloud/README.md",
+        "m11-module/README.md",
+        "m12-kanban/README.md",
+        "m18-health-check/README.md"
+      ]
+    },
+    {
+      "path": "sources/historical/singapore-search-history.md",
+      "type": "public_summary",
+      "repository": "bingshuo/global-search-api",
+      "commit": "fa832f2f8245afdaf013ed8a1f689152972386b5",
+      "source_paths": [
+        "CHANGELOG.hdlp",
+        "README-V2.md"
+      ],
+      "source_url": "https://guanghubingshuo.com/code/bingshuo/global-search-api/src/commit/fa832f2f8245afdaf013ed8a1f689152972386b5"
+    }
+  ]
+}

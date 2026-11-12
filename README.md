@@ -25,6 +25,8 @@
 
 ## 工程史料
 
+- [早期仓库工程档案](sources/historical/README.md) · 执行引擎、格点存储、早期模块与新加坡检索组件
+
 - [工程迁移与公开发布沿革](docs/engineering-history.md)
 - [公开发行校验索引](data/public-releases.json) · 含发行版本、下载地址和 SHA-256
 
