@@ -16,7 +16,7 @@
 
 ## 公开原文资料
 
-- [阅读 27 份公开发行原文](sources/README.md) · 四域说明、协议文档和第五域公开接入资料
+- [阅读 50 份公开发行资料](sources/README.md) · 四域说明、协议文档和第五域公开接入资料
 - [原文来源与 SHA-256](sources/SOURCE-MANIFEST.json)
 
 ## 登记查验

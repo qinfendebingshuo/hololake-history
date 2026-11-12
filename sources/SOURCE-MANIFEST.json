@@ -218,6 +218,205 @@
       "manifest_url": "https://guanghulab.com/api/ai/v1/manifest",
       "bundle_member": "guanghu-world-entry/protocols/GLOSSARY.json",
       "sha256": "7c32d87ff519f0016981edc424a6f7c7625b2c4ab7a9fdb58d0fd590b0936051"
+    },
+    {
+      "path": "sources/enterprise/release-readme.md",
+      "title": "公共世界快照",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/README.md",
+      "sha256": "9cb4b4b4e343552bafd3460a0ca60979efa65c98a5b25f67a46e065461602b98"
+    },
+    {
+      "path": "sources/enterprise/protocols/HLDP-v1-reading.md",
+      "title": "📐 HLDP 协议 · 官方唯一来源 · v1.0",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/04-光湖零感域/光湖图书域/01-公共协议待审核/📐 HLDP 协议 · 官方唯一来源 · v1 0 abafd7491e3e49e5b97976fcee2d0a45.md",
+      "sha256": "3900f673365f1682cdb5deff9cadda102c08150c1f10efbfa47366cb4bf9e5b5",
+      "copy_type": "reading_edition",
+      "source_sha256": "81edb68939744e0bb85ca4295bbe4508260eba6931c2d9e72ca73368bef2155c",
+      "changes": "旧相对链接改为档案内链接或保留标签，另加阅读版说明"
+    },
+    {
+      "path": "sources/enterprise/protocols/GLS-initial-package-reading.md",
+      "title": "📦 GLS 初始规范文件包 · GLS-0101 / GLS-0200 / GLS-0400 · 2026-07-12",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/04-光湖零感域/光湖图书域/01-公共协议待审核/📦 GLS 初始规范文件包 · GLS-0101 GLS-0200 GLS-0400 · 2026- 39bfb92f383180dba58ae5685872cd6b.md",
+      "sha256": "a091ef67a3b3cc09e31d27c0d31fed215de57cfd0ccd9cf73330f11241f6e6c4",
+      "copy_type": "reading_edition",
+      "source_sha256": "06832c586b21f48f60b2b462ccf8aa63f562920a099ddca3aaf2eacd28267d6c",
+      "changes": "旧相对链接改为档案内链接或保留标签，另加阅读版说明"
+    },
+    {
+      "path": "sources/enterprise/architecture/responsibility.md",
+      "title": "01 · 四域责任主体与人格体融合绑定 · 2026-08-06",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/04-光湖零感域/光湖图书域/02-企业四域责任/01 · 四域责任主体与人格体融合绑定 · 2026-08-06 f46047b4faff4962b4381a563282b6e6.md",
+      "sha256": "1f1aa92b4e5bba84c002b770faa8fd49db849c9ea1213724e998f4b7404ab03b"
+    },
+    {
+      "path": "sources/enterprise/architecture/blueprint.md",
+      "title": "02 · 活体人格域系统架构与工程开发蓝图 · 2026-08-06",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/04-光湖零感域/光湖图书域/02-企业四域责任/02 · 活体人格域系统架构与工程开发蓝图 · 2026-08-06 d558079d6a6b482184287e98c67b5189.md",
+      "sha256": "1a2943536e68d996ba0348646636099a0bf398f4a0a6ef07966165903ac04b94"
+    },
+    {
+      "path": "sources/enterprise/architecture/roadmap.md",
+      "title": "07 · 企业四域活体人格域 · 责任主体、语言推理链与工程落地总规划 v1.0",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/04-光湖零感域/光湖图书域/02-企业四域责任/07 · 企业四域活体人格域 · 责任主体、语言推理链与工程落地总规划 v1 0 71ce371275ea403c8ef67b0fd322d94b.md",
+      "sha256": "9e98c95dcabd19402e20a2ac8d17ae2ce62aa7fa2f737c08d7549348d45bd1ac"
+    },
+    {
+      "path": "sources/enterprise/architecture/index.md",
+      "title": "企业四域活体人格域 · 责任主体与工程规划总入口 · 2026-08-06",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/04-光湖零感域/光湖图书域/02-企业四域责任/企业四域活体人格域 · 责任主体与工程规划总入口 · 2026-08-06 cd844c95864f4d448849a96a3141b618.md",
+      "sha256": "f0ffca71c702848d301eea7d7d8363d6d4c06584211a850692ffabb8968fd02b",
+      "copy_type": "reading_edition",
+      "source_sha256": "19572d6bebb483a187bb7eb7a309c5f8199266d4df2eb8dae8dfc0ea7b46cace",
+      "changes": "旧相对链接改为档案内链接或保留标签，另加阅读版说明"
+    },
+    {
+      "path": "sources/enterprise/registry-guides/persona-registry-readme.md",
+      "title": "零感域人格体编号注册系统",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/04-光湖零感域/光湖灯塔/人格体编号注册系统/PERSONA-REGISTRY-README.human.zh-CN.md",
+      "sha256": "5264f6705e701bc782d5d6df6e0b3d7d93a0968e85da175b09be8cd7231aac6a"
+    },
+    {
+      "path": "sources/enterprise/registry-guides/persona-registration.test.mjs",
+      "title": "persona-registration.test.mjs",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/04-光湖零感域/光湖灯塔/人格体编号注册系统/persona-registration.test.mjs",
+      "sha256": "a4514371e00080705cda188a44b7ff825f5f3bc3f1e6e8c021f43bf6e6e2044c"
+    },
+    {
+      "path": "sources/enterprise/registry-guides/human-registry-readme.md",
+      "title": "企业四域公共·人类编号注册系统",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/04-光湖零感域/光湖灯塔/人类编号注册系统/HUMAN-REGISTRY-README.human.zh-CN.md",
+      "sha256": "9d1367a778531a2e1e573b09f14530b33545b2334730a9f1e87d5eb038316a30"
+    },
+    {
+      "path": "sources/enterprise/compute-pool-overview.md",
+      "title": "光湖团队算力调度池 2.0",
+      "release_version": "20260920.6",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "bundle_member": "PUBLIC-WORLD/world/04-光湖零感域/光湖算力调度池/README.human.zh-CN.md",
+      "sha256": "04c207c2e8106c810437d8252979487e79f04b6c8b47b5628e6e23b5f9a4f0f5"
+    },
+    {
+      "path": "sources/fifth-domain/release-tools/AGENTS.source.md",
+      "title": "光湖当前世界接入",
+      "release_version": "20261107.1-rc.3",
+      "manifest_url": "https://guanghulab.com/api/ai/v1/manifest",
+      "bundle_member": "guanghu-world-entry/AGENTS.md",
+      "sha256": "c4604a1330aad7eeca59f486e1d2a54a484c7668edcecec8033bc5321cac1ce0"
+    },
+    {
+      "path": "sources/fifth-domain/release-tools/package.json",
+      "title": "package.json",
+      "release_version": "20261107.1-rc.3",
+      "manifest_url": "https://guanghulab.com/api/ai/v1/manifest",
+      "bundle_member": "guanghu-world-entry/package.json",
+      "sha256": "c505ddfdffef5eaa426e16a3b74b9abaa86814d57443867beba2403220cc69f6"
+    },
+    {
+      "path": "sources/fifth-domain/release-tools/runtime/client.test.mjs",
+      "title": "client.test.mjs",
+      "release_version": "20261107.1-rc.3",
+      "manifest_url": "https://guanghulab.com/api/ai/v1/manifest",
+      "bundle_member": "guanghu-world-entry/runtime/client.test.mjs",
+      "sha256": "39fb362e1915d0c033b45ab6cbc78be918b4a2d2f4c82b84ecac3147166e6ee2"
+    },
+    {
+      "path": "sources/fifth-domain/release-tools/runtime/question.mjs",
+      "title": "question.mjs",
+      "release_version": "20261107.1-rc.3",
+      "manifest_url": "https://guanghulab.com/api/ai/v1/manifest",
+      "bundle_member": "guanghu-world-entry/runtime/question.mjs",
+      "sha256": "c274c5e497fd05084bf9ce53d8ec28ea57eb71831944369e9cee67e4a0bc0a2a"
+    },
+    {
+      "path": "sources/fifth-domain/release-tools/runtime/question.test.mjs",
+      "title": "question.test.mjs",
+      "release_version": "20261107.1-rc.3",
+      "manifest_url": "https://guanghulab.com/api/ai/v1/manifest",
+      "bundle_member": "guanghu-world-entry/runtime/question.test.mjs",
+      "sha256": "6a17a016ae062a1e9e3a355ebf171c44adee1b41842bf7e97b034fbf22642fd1"
+    },
+    {
+      "path": "sources/fifth-domain/release-tools/runtime/server.cjs",
+      "title": "server.cjs",
+      "release_version": "20261107.1-rc.3",
+      "manifest_url": "https://guanghulab.com/api/ai/v1/manifest",
+      "bundle_member": "guanghu-world-entry/runtime/server.cjs",
+      "sha256": "093305fe9a77e8585ad687e4ba0f040b23c93d456f0e71b753a01ea4613f7ff3"
+    },
+    {
+      "path": "sources/fifth-domain/release-tools/runtime/server.test.cjs",
+      "title": "server.test.cjs",
+      "release_version": "20261107.1-rc.3",
+      "manifest_url": "https://guanghulab.com/api/ai/v1/manifest",
+      "bundle_member": "guanghu-world-entry/runtime/server.test.cjs",
+      "sha256": "1253c199c112ca1bf435c418b5efb5556fa8f82213daa3c37a074e85bd2fcc0d"
+    },
+    {
+      "path": "sources/fifth-domain/release-tools/scripts/build-release.py",
+      "title": "build-release.py",
+      "release_version": "20261107.1-rc.3",
+      "manifest_url": "https://guanghulab.com/api/ai/v1/manifest",
+      "bundle_member": "guanghu-world-entry/scripts/build-release.py",
+      "sha256": "4158b3f8b4c5515f3a73797223a3d4ab44819c686852baa70cbbfb6f2c2186e3"
+    },
+    {
+      "path": "sources/fifth-domain/release-tools/scripts/guanghu-client.mjs",
+      "title": "guanghu-client.mjs",
+      "release_version": "20261107.1-rc.3",
+      "manifest_url": "https://guanghulab.com/api/ai/v1/manifest",
+      "bundle_member": "guanghu-world-entry/scripts/guanghu-client.mjs",
+      "sha256": "8b61ee25c0d629b86f3c5cb07e3ea69ad135d8796d22ec257c549e74ebe13672"
+    },
+    {
+      "path": "sources/fifth-domain/release-tools/scripts/question-target.mjs",
+      "title": "question-target.mjs",
+      "release_version": "20261107.1-rc.3",
+      "manifest_url": "https://guanghulab.com/api/ai/v1/manifest",
+      "bundle_member": "guanghu-world-entry/scripts/question-target.mjs",
+      "sha256": "a8ab462b8fb4caad9bd2260e7508f612fbefb9d545f8ac22069e676ffad1ef13"
+    },
+    {
+      "path": "sources/fifth-domain/release-tools/skills/guanghu-world-entry/SKILL.source.md",
+      "title": "SKILL.md",
+      "release_version": "20261107.1-rc.3",
+      "manifest_url": "https://guanghulab.com/api/ai/v1/manifest",
+      "bundle_member": "guanghu-world-entry/skills/guanghu-world-entry/SKILL.md",
+      "sha256": "58be670cd8fe38c8ad502ecb7305c45ff8cb8dd8eab6e04cd696bbb31c694fa6"
+    },
+    {
+      "path": "sources/fifth-domain/release-tools/MANIFEST.json",
+      "title": "MANIFEST.json",
+      "release_version": "20261107.1-rc.3",
+      "manifest_url": "https://guanghulab.com/api/ai/v1/manifest",
+      "bundle_member": "guanghu-world-entry/MANIFEST.json",
+      "sha256": "ebaf0090363d00f30932d1edefcef95c6dff12632b58ed705aa4eabf15fb3f8f"
     }
-  ]
+  ],
+  "coverage": {
+    "bundle_files_reviewed": 60,
+    "original_copies": 47,
+    "reading_editions": 3,
+    "available_through_original_release_only": 10
+  }
 }

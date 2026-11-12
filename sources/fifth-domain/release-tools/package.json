@@ -1,0 +1,12 @@
+{
+  "name": "guanghu-world-entry",
+  "version": "1.0.1",
+  "private": true,
+  "description": "光湖公开规则与受控问脑入口",
+  "scripts": {
+    "test": "node --test runtime/*.test.cjs runtime/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

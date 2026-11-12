@@ -1,0 +1,83 @@
+{
+  "schema": "guanghu.public-rule-file-manifest/v1",
+  "world_id": "GLW-2.0-0001",
+  "version": "20261107.1-rc.3",
+  "scope": "PUBLIC_ENTRY_RULES_SKILLS_AND_QUESTION_TRANSPORT_ONLY",
+  "files": [
+    {
+      "path": "AGENTS.md",
+      "sha256": "c4604a1330aad7eeca59f486e1d2a54a484c7668edcecec8033bc5321cac1ce0",
+      "bytes": 981
+    },
+    {
+      "path": "entry-data.json",
+      "sha256": "e186cb1ab97ebe6873d6f2d8235e397da1cfef1bfdb6ca16957d6cff44967d40",
+      "bytes": 2511
+    },
+    {
+      "path": "package.json",
+      "sha256": "c505ddfdffef5eaa426e16a3b74b9abaa86814d57443867beba2403220cc69f6",
+      "bytes": 260
+    },
+    {
+      "path": "protocols/ENTRY.hldp",
+      "sha256": "16f25f71f5a7721521f1b8e3462965fe9e606800a8669e0d832b3c19c4a48f29",
+      "bytes": 3513
+    },
+    {
+      "path": "protocols/GLOSSARY.json",
+      "sha256": "7c32d87ff519f0016981edc424a6f7c7625b2c4ab7a9fdb58d0fd590b0936051",
+      "bytes": 3608
+    },
+    {
+      "path": "runtime/client.test.mjs",
+      "sha256": "39fb362e1915d0c033b45ab6cbc78be918b4a2d2f4c82b84ecac3147166e6ee2",
+      "bytes": 1284
+    },
+    {
+      "path": "runtime/question.mjs",
+      "sha256": "c274c5e497fd05084bf9ce53d8ec28ea57eb71831944369e9cee67e4a0bc0a2a",
+      "bytes": 6307
+    },
+    {
+      "path": "runtime/question.test.mjs",
+      "sha256": "6a17a016ae062a1e9e3a355ebf171c44adee1b41842bf7e97b034fbf22642fd1",
+      "bytes": 3052
+    },
+    {
+      "path": "runtime/server.cjs",
+      "sha256": "093305fe9a77e8585ad687e4ba0f040b23c93d456f0e71b753a01ea4613f7ff3",
+      "bytes": 12324
+    },
+    {
+      "path": "runtime/server.test.cjs",
+      "sha256": "1253c199c112ca1bf435c418b5efb5556fa8f82213daa3c37a074e85bd2fcc0d",
+      "bytes": 4604
+    },
+    {
+      "path": "runtime/worker.mjs",
+      "sha256": "260c93d8cf67d172d0c1c04abea891b6f2d4fc8366901e3915b8c517702c6c10",
+      "bytes": 2859
+    },
+    {
+      "path": "scripts/build-release.py",
+      "sha256": "4158b3f8b4c5515f3a73797223a3d4ab44819c686852baa70cbbfb6f2c2186e3",
+      "bytes": 2043
+    },
+    {
+      "path": "scripts/guanghu-client.mjs",
+      "sha256": "8b61ee25c0d629b86f3c5cb07e3ea69ad135d8796d22ec257c549e74ebe13672",
+      "bytes": 3638
+    },
+    {
+      "path": "scripts/question-target.mjs",
+      "sha256": "a8ab462b8fb4caad9bd2260e7508f612fbefb9d545f8ac22069e676ffad1ef13",
+      "bytes": 807
+    },
+    {
+      "path": "skills/guanghu-world-entry/SKILL.md",
+      "sha256": "58be670cd8fe38c8ad502ecb7305c45ff8cb8dd8eab6e04cd696bbb31c694fa6",
+      "bytes": 2525
+    }
+  ]
+}
