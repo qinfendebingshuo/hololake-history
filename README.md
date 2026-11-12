@@ -14,6 +14,11 @@
 | 2026-07-05 | 第五域主仓入口索引形成，记录仓库、频道和历史编号之间的导航。 | 历史索引提交 `b2a38b13135c`，旧站证书异常 |
 | 2026-07-31 | GLS-0247 入库，记录了当时对服务器原生语言世界、人格体运行和广播塔的架构设计。 | 历史提交 `a64887970179`，原址当前不可匿名读取 |
 
+## 工程史料
+
+- [工程迁移与公开发布沿革](docs/engineering-history.md)
+- [公开发行校验索引](data/public-releases.json) · 含发行版本、下载地址和 SHA-256
+
 ## 可直接核对的公开资料
 
 - [Tolaria 桌面工程基线 · 固定提交](https://guanghubingshuo.com/code/bingshuo/guanghu/src/commit/514ab1975951d94342ea38e64101d5a0f1c51c77)

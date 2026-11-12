@@ -1,0 +1,25 @@
+{
+  "world_id": "GLW-2.0-0001",
+  "history_station_id": "GLW-2.0-0001-HIST-002",
+  "verified_on": "2026-11-12",
+  "digest_algorithm": "SHA-256",
+  "entries": [
+    {
+      "version": "20260920.6",
+      "publisher": "企业侧 TCS",
+      "scope": "公共四域、公开图书馆及发行清单所列算力池材料",
+      "manifest_url": "https://guanghu.chat/api/team-world/v1/public-world-release",
+      "download_url": "https://guanghu.chat/api/team-world/v1/public-world-bundle",
+      "sha256": "795a65cc4a7bf7dbc4a90aa91e0e909eb3143c001a622468064f3015f01abfd7",
+      "published_at": "2026-09-20T08:34:24+08:00"
+    },
+    {
+      "version": "20261107.1-rc.3",
+      "publisher": "冰朔第五域",
+      "scope": "公开接入规则、技能及问询运输",
+      "manifest_url": "https://guanghulab.com/api/ai/v1/manifest",
+      "download_url": "https://guanghulab.com/api/ai/v1/rule-bundle",
+      "sha256": "167e40e9f55abf30cd8c8db204ab59d286d31d95ae9a5b0dac5be5dc2182619f"
+    }
+  ]
+}
