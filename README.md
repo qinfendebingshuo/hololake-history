@@ -23,6 +23,7 @@
 
 ## 现行入口
 
-- [光湖语言世界官网 · 国内入口](https://guanghulab.com/#world) · 世界说明、协议词条和公开史料
-- [机器可读发布索引](https://guanghulab.com/publication-index.json) · 官网的公开资料与出处
+- [冰朔第五域官方入口](https://guanghulab.com/#world) · 第五域语言协议、语言架构和公开史料
+- [光湖语言世界官网](https://guanghu.chat/)
+- [机器可读发布索引](https://guanghulab.com/publication-index.json) · 第五域公开资料与出处
 - [企业产品入口 · HoloLake 协作工作台](https://guanghu.chat/dev/hololake/) · 产品和团队协作功能
