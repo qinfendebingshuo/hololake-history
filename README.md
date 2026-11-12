@@ -21,6 +21,10 @@
 - [现行 HLDP 词条](https://guanghulab.com/#glossary) · 用于对照早期版本
 - [现行公开规则发行清单](https://guanghulab.com/api/ai/v1/manifest)
 
+## 下一站
+
+- [新加坡 Forgejo 阶段 · GLW-2.0-0001-HIST-003](https://guanghulab.com/history/singapore/)
+
 ## 现行入口
 
 - [冰朔第五域官方入口](https://guanghulab.com/#world) · 第五域语言协议、语言架构和公开史料
