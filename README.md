@@ -45,6 +45,8 @@
 
 ## 现行入口
 
+- [现行创世区块与跃迁状态](https://guanghu.chat/api/guanghu/world-evidence/era-transition.json)
+- 创世第 0 块 SHA-256 `58768c8288ba9828be40601a28eb23c7f54d8a83fc25e7f694ae1564a9dc8bfa`
 - [冰朔第五域官方入口](https://guanghulab.com/#world) · 第五域语言协议、语言架构和公开史料
 - [光湖语言世界官网](https://guanghu.chat/)
 - [机器可读发布索引](https://guanghulab.com/publication-index.json) · 第五域公开资料与出处
